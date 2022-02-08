@@ -23,7 +23,12 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthrough GIF
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<iframe src="https://giphy.com/embed/BMoU0QSrz2BQboPQvn" width="480" height="310" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img src="https://submissions.us-east-1.linodeobjects.com/ios_university/A4klTFSb.gif" width=250><br>
+
+
+https://user-images.githubusercontent.com/57370380/152972578-9f4877c5-4088-4710-9e0b-c365cdc7b1e3.mov
+
+
 ### Notes
 Describe any challenges encountered while building the app.
 Some challengees I encountered was taking a while to figure out why my urlPath images were not showing on the posterView. I figured that it was because I misspelled the url to the movies images. Little mistakes. 
